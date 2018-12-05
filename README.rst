@@ -40,7 +40,7 @@ Dependencias
 ============
 	
 	* alien  0.5.0
-	* loop 
+	* loop 2.3.0
 
 Installation
 ===========
