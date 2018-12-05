@@ -3,9 +3,9 @@ fbclient
 
 .. code-block::
 
- author : cosmin.apreutesei@gmail.com
+ author : Cosmin Apreutesei [cosmin.apreutesei@gmail.com]
  version: 0.5.0
- website: cosmin.apreutesei@gmail.com
+ website: https://code.google.com/archive/p/fbclient/
  
 A collection of pure Lua modules that allows you to connect and execute
 queries against the Firebird Relational Database.
@@ -38,8 +38,8 @@ It is a modular, 3-layer interface, aiming at full API coverage.
 Dependencias
 ============
 	
-	* alien  0.4.1.53-1 
-	* loop 1.4-1
+	* alien  0.5.0
+	* loop 
 
 Installation
 ===========
@@ -49,5 +49,4 @@ fbclient is included on stable repo.
 .. code-block:: bash
 	
 	$ lide install fbclient
-
 
